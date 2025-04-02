@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Plugin Name: CF7 MCP Event Manager Integration
+ * Plugin Name: MCP CF7 Event Manager Integration
  * Plugin URI: https://davekim.io
  * Description: Adds custom Contact Form 7 tags for workshops and webinars, pulling data from the workshops and webinars created from the MCP Event Manager plugin.
  * Version: 1.0
